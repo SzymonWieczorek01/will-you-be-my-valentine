@@ -1,6 +1,6 @@
 const answers_no = {
     english: [
-        "Nie",
+        "Nuh uh",
         "No weź no",
         "Błagać Cię mam?",
         "Błagam Cię",
@@ -51,7 +51,7 @@ const answers_no = {
 };
 
 answers_yes = {
-    "english": "Yes",
+    "english": "NO DOOOBRA <3",
     "french": "Oui",
     "Thailand": "เย่ คืนดีกันแล้วน้า"
 }
